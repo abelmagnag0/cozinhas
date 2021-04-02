@@ -1,137 +1,143 @@
 [
-  {
-    "nome": "Açaí"
-  },
-  {
-    "nome": "Africana"
-  },
-  {
-    "nome": "Comida Árabe"
-  },
-  {
-    "nome": "Baiana"
-  },
-  {
-    "nome": "Bebidas"
-  },
-  {
-    "nome": "Comida Brasileira"
-  },
-  {
-    "nome": "Hambúrguer"
-  },
-  {
-    "nome": "Cafeteria"
-  },
-  {
-    "nome": "Carnes"
-  },
-  {
-    "nome": "Congelados Fit"
-  },
-  {
-    "nome": "Comida Chinesa"
-  },
-  {
-    "nome": "Congelados"
-  },
-  {
-    "nome": "Crepe"
-  },
-  {
-    "nome": "Cozinha Rápida"
-  },
-  {
-    "nome": "Casa de Sucos"
-  },
-  {
-    "nome": "Conveniência"
-  },
-  {
-    "nome": "Doces e Bolos"
-  },
-  {
-    "nome": "Frangos"
-  },
-  {
-    "nome": "Frutos do Mar"
-  },
-  {
-    "nome": "Gaúcha"
-  },
-  {
-    "nome": "Comida Italiana"
-  },
-  {
-    "nome": "Comida Japonesa"
-  },
-  {
-    "nome": "Lanches"
-  },
-  {
-    "nome": "Marmita"
-  },
-  {
-    "nome": "Mercado"
-  },
-  {
-    "nome": "Comida Mexicana"
-  },
-  {
-    "nome": "Mineira"
-  },
-  {
-    "nome": "Nordestina"
-  },
-  {
-    "nome": "Padaria"
-  },
-  {
-    "nome": "Pastel"
-  },
-  {
-    "nome": "Pizza"
-  },
-  {
-    "nome": "Comida Portuguesa"
-  },
-  {
-    "nome": "Panqueca"
-  },
-  {
-    "nome": "Peixes"
-  },
-  {
-    "nome": "Salgados"
-  },
-  {
-    "nome": "Comida Saudável"
-  },
-  {
-    "nome": "Sorvetes"
-  },
-  {
-    "nome": "Sopas & Caldos"
-  },
-  {
-    "nome": "Tapioca"
-  },
-  {
-    "nome": "Comida Tailandesa"
-  },
-  {
-    "nome": "Comida Variada"
-  },
-  {
-    "nome": "Vegana"
-  },
-  {
-    "nome": "Comida Vegetariana"
-  },
-  {
-    "nome": "Yakisoba"
-  },
-  {
-    "nome": "Outros"
-  }
+ {
+   "nome": "Açaí"
+ },
+ {
+   "nome": "Africana"
+ },
+ {
+   "nome": "Alemã"
+ },
+ {
+   "nome": "Árabe"
+ },
+ {
+   "nome": "Argentina"
+ },
+ {
+   "nome": "Asiática"
+ },
+ {
+   "nome": "Baiana"
+ },
+ {
+   "nome": "Bebidas"
+ },
+ {
+   "nome": "Brasileira"
+ },
+ {
+   "nome": "Cafeteria"
+ },
+ {
+   "nome": "Casa de Sucos"
+ },
+ {
+   "nome": "Chinesa"
+ },
+ {
+   "nome": "Churrasco"
+ },
+ {
+   "nome": "Congelados"
+ },
+ {
+   "nome": "Congelados Fit"
+ },
+ {
+   "nome": "Contemporânea"
+ },
+ {
+   "nome": "Conveniência"
+ },
+ {
+   "nome": "Coreana"
+ },
+ {
+   "nome": "Crepes e Panquecas"
+ },
+ {
+   "nome": "Doces & Bolos"
+ },
+ {
+   "nome": "Espanhola"
+ },
+ {
+   "nome": "Francesa"
+ },
+ {
+   "nome": "Frangos"
+ },
+ {
+   "nome": "Frutos Do Mar"
+ },
+ {
+   "nome": "Grega"
+ },
+ {
+   "nome": "Hambúrguer"
+ },
+ {
+   "nome": "Indiana"
+ },
+ {
+   "nome": "Italiana"
+ },
+ {
+   "nome": "Japonesa"
+ },
+ {
+   "nome": "Lanches"
+ },
+ {
+   "nome": "Marroquina"
+ },
+ {
+   "nome": "Mediterrânea"
+ },
+ {
+   "nome": "Mercado"
+ },
+ {
+   "nome": "Mexicana"
+ },
+ {
+   "nome": "Mineira"
+ },
+ {
+   "nome": "Padaria"
+ },
+ {
+   "nome": "Pastel"
+ },
+ {
+   "nome": "Peruana"
+ },
+ {
+   "nome": "Pizza"
+ },
+ {
+   "nome": "Portuguesa"
+ },
+ {
+   "nome": "Salgados"
+ },
+ {
+   "nome": "Saudável"
+ },
+ {
+   "nome": "Sopas & Caldos"
+ },
+ {
+   "nome": "Sorvetes"
+ },
+ {
+   "nome": "Tailandesa"
+ },
+ {
+   "nome": "Variada"
+ },
+ {
+   "nome": "Vegana"
+ }
 ]
